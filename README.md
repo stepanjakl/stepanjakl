@@ -4,7 +4,7 @@
 </a>
 </p>
 
-# Štěpán Jákl | Full-stack web developer & interface designer
+# Štěpán Jákl | Full-Stack Engineer | Product & Design
 
 ### 
 
